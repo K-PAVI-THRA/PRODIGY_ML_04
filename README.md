@@ -12,9 +12,6 @@ The dataset used is the *LeapGestRecog* dataset from Kaggle, which contains imag
 4. Add a code cell above your existing code in the provided .ipynb file to mount your Google Drive.
 5. Run the code cells in the notebook after mounting the drive to access and use the dataset.
 
-### Code Execution:
-The code is contained within the `SVM_Cat_vs_Dog_Classification.ipynb` file. After mounting your Google Drive, execute the cells in the notebook for the code to run.
-
 ### Knowledge Gained:
 1. **Data Preprocessing**: I mastered the process of loading and preprocessing image data, including resizing images and converting them to grayscale for consistency and to optimize input for the model.
    
